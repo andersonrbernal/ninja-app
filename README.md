@@ -1,16 +1,20 @@
-# ninja_app
+# Ninja App
 
-An ID card app.
+A quote list mobile app with support for android and ios.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+![preview](./preview.JPG)
 
-A few resources to get you started if this is your first Flutter project:
+## Why I did this project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I've been studying flutter for the past days, and I wanted to test my abilities creating apps with flutter.
+I couldn't do this project if it wasn't for Shaun. The Youtuber responsible for the channel The Net Ninja.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+You can download this project freely, modify it, and sell it. 
+
+## Author
+
+Author: Anderson Rodrigues Bernal
